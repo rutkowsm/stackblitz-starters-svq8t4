@@ -102,8 +102,8 @@ export default function App() {
     <div className="App">
       <h1>Gotuj z Rudolfem</h1>
       <Timer />
-      <Likes />
       <Presentation slides={slides} />
+      <Likes />
     </div>
   );
 }
